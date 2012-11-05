@@ -162,7 +162,8 @@ pip-log.txt
 # Mac crap
 .DS_Store
 
-#android
-.dex
-.apk
-.class
+# Android
+*.class
+*.dex
+*.apk
+
