@@ -7,10 +7,10 @@ USB Socket Communication between PC and Android
 Modules
 =======
 
-1. PC2UsbSocketApplication
+1. PC2UsbSocketApplication - 
   A socket server application which installed on the android devices.
 
-2. SocketExample
+2. SocketExample - 
   Socker server and socker client programs in java languages.
 
 
